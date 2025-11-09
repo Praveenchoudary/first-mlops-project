@@ -361,14 +361,3 @@ In this blog, we covered:
 ☸️ Kubernetes deployment
 
 ---
-
-# 🙌 Want More?
-
-I can also create:
-
-✅ A downloadable PDF
-✅ A GitHub-ready README.md
-✅ Diagrams for Medium (ASCII or image)
-✅ CI/CD pipeline version (GitHub Actions)
-
-Just tell me — **“generate GitHub README version”** or **“add diagrams”**.
