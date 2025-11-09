@@ -351,13 +351,3 @@ This project covers complete beginner-friendly **MLOps workflow**, from training
 MLOps is not difficult when you break it into simple steps.
 If you know Docker, Kubernetes, and basics of Python — you are already 70% there.
 
-In this blog, we covered:
-
-📥 Data ingestion
-🧹 Data preparation
-🎓 Model training
-✅ Model evaluation
-🐳 Docker containerization
-☸️ Kubernetes deployment
-
----
